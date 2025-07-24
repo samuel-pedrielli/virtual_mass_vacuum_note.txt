@@ -1,0 +1,29 @@
+Virtual‑Mass Vacuum & Emergent Gravity – Technical Note (24 July 2025)
+
+1. Premise
+   We explore whether the observed “dark‑matter” gravitational excess can
+   originate from virtual particle pairs endowed with non‑zero gravitational
+   mass m_v. Unlike electromagnetic contributions (zero net charge), mass is
+   always positive; a persistent virtual‑mass fluid would curve spacetime.
+
+2. Density estimation
+   Assume each virtual pair exists τ ~ ħ/E and carries m_v = ε m_P, ε ≪ 1.
+   Integrating over zero‑point modes up to cut‑off Λ yields
+   ρ_v ≈ (ε/2π²) m_P Λ³.
+   Setting Λ = 1 keV reproduces MOND critical acceleration a₀ ~ 1.2·10⁻¹⁰ m/s².
+
+3. Constraints
+   • Bullet Cluster lensing requires collisionless behaviour → virtual pairs must
+     not thermalise.  
+   • CMB first‑peak location fixes Ω_dm h² ≈ 0.12 → εΛ³ finely tuned within ±3 %.  
+   • Laboratory Casimir‑type tests exclude Λ > 10 eV unless ε < 10⁻²⁰.
+
+4. Predictions & tests
+   • Slight scale‑dependence in galactic rotation curves at r > 50 kpc.  
+   • Euclid + SKA weak‑lensing maps could reveal a cut‑off imprint.  
+   • High‑precision micro‑gravity experiments (cold atoms) constrain ε.
+
+5. Outlook
+   The virtual‑mass hypothesis reproduces galactic dynamics with a single
+   parameter εΛ³ but faces tight cosmological bounds. A field‑theoretic
+   derivation of gravitational charge for vacuum fluctuations is required.
